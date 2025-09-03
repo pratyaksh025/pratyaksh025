@@ -1,4 +1,14 @@
-# 👋 Hi, I’m Pratyaksh — a passionate developer blending AI, data science, and practical automation to solve real-world problems.<br>💡 ## I build intelligent systems like nutrition assistants, farming guides, and face recognition apps using Python, machine learning, OpenCV, and Streamlit.<br>🧠 I'm currently focused on projects involving reinforcement learning, interactive AI systems, and multi-modal interfaces (voice, image, text).<br>🛠️ Tech Stack: Python | Pandas | scikit-learn | OpenCV | Streamlit | TensorFlow | SQL | HTML/CSS/JS<br>🚀 I love turning complex data into smart, user-friendly tools — from automated data analysis pipelines to AI-powered health assistants.<br>🔄 Most of my recent projects involve dynamic interaction with users and learning from feedback.<br>📬 Always open to collaborations on applied AI, innovative data products, or voice-enabled interfaces.
+### 👋 Hi, I’m Pratyaksh — a passionate developer blending AI, data science, and practical automation to solve real-world problems.
+---
+### 💡 I build intelligent systems like nutrition assistants, farming guides, and face recognition apps using Python, machine learning, OpenCV, and Streamlit.
+---
+### 🧠 I'm currently focused on projects involving reinforcement learning, interactive AI systems, and multi-modal interfaces (voice, image, text).
+---
+### 🛠️ Tech Stack: Python | Pandas | scikit-learn | OpenCV | Streamlit | TensorFlow | SQL | HTML/CSS/JS
+---
+### 🚀 I love turning complex data into smart, user-friendly tools — from automated data analysis pipelines to AI-powered health assistants.
+---
+### 🔄 Most of my recent projects involve dynamic interaction with users and learning from feedback.<br>📬 Always open to collaborations on applied AI, innovative data products, or voice-enabled interfaces.
 
 
 ## 🌐 Socials:
